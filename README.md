@@ -34,6 +34,6 @@ Tech: Python · TypeScript
 ---
 
 🎯 Goal
-Smart contract auditor.
+- Smart contract auditor.
 
 
