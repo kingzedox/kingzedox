@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I’m kingzedox :)
 
-<!--
-**kingzedox/kingzedox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Smart contract security researcher in training, focused on Solidity, EVM behavior, and protocol risk analysis. I also make bots [discord and telegram bots] for the web2 and web3 community.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Focus
+- Solidity & EVM fundamentals  
+- Smart contract vulnerabilities  
+- Bug bounties as auditing practice
+- Bots for web3 communities
+- Bots for web2 communities
+
+---
+
+🧪 Proof of Work
+- Studying common vulnerability classes  
+- Reproducing known exploits in test environments  
+- Writing audit-style notes (in progress)
+
+---
+
+🛠️ Engineering
+- Telegram & Discord bots  
+- Landing pages and Web dashboards  
+
+Tech: Python · TypeScript · React
+
+---
+
+🎯 Goal
+Smart contract auditor.
+
+📫 Contact: [X] · [Email]
