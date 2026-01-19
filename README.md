@@ -28,11 +28,12 @@ Tech: Python · TypeScript
 
 ---
 
-🎯 Goal
-Smart contract auditor.
+📫 Contact:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kingzed0x) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kingzedox1) [![Twitter](https://img.shields.io/badge/X-black.svg?logo=Twitter&logoColor=white)](https://x.com/kingzedox0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kingzedox@gmail.com) 
 
 ---
 
-📫 Contact:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kingzed0x) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kingzedox1) [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kingzedox0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kingzedox@gmail.com) 
+🎯 Goal
+Smart contract auditor.
+
 
